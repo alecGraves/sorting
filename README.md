@@ -1,4 +1,4 @@
-# sorting
+# Sorting
 An overview of sorting algorithms, paper written for my KSU Software of Mathematics (MATH 3000) Final Project
 
 # Which sorting algorithm is the best?
